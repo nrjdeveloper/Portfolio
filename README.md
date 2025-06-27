@@ -28,7 +28,7 @@ JavaScript. My goal is become a software engoneer.
 ## 📫 For contact
 
 - 📧 Email: shajiniroj471@gmail.com  
-- 🌐 Website: [nirajshahi.github.io/portfolio](https://nirajshahi.github.io/portfolio/)  
-- 📘 Facebook: [Niraj Shahi](https://www.facebook.com/niroj.shahi.35237)
+- 🌐 Website: [nirajshahi.github.io/portfolio](https://nrjdeveloper.github.io/portfolio/)  
+- 📘 Facebook: [Niraj Shahi](https://www.facebook.com/niroj.sha.35237)
 
 ---
