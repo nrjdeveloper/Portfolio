@@ -65,6 +65,23 @@
       font-size: 14px;
       margin-top: 30px;
     }
+
+    @keyframes bounce {
+      0%   { transform: translateY(0); }
+      50%  { transform: translateY(-30px); }
+      100% { transform: translateY(0); }
+    }
+.btn{
+						  padding: 12px;
+ background-color: lightgreen; 
+ text-decoration: none; 
+ margin: 14px;
+ border-radius: 5px;
+				}
+				.btn:hover{
+						animation: bounce 0.8s ease;
+    }
+    
   </style>
 </head>
 <body>
@@ -97,7 +114,7 @@
     <a href="nepal.e.html">Essay about Nepal</a>
     
   </section>
- <a href="projects.html" class="a">Read more</a>
+ <a href="projects.html" class="btn">Read more</a>
  
   <footer>
     © 2025 Niraj Shahi | Portfolio by HTML + CSS
